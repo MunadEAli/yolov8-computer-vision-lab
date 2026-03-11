@@ -37,7 +37,7 @@ After downloading, place the dataset in your project directory and update the pa
 yolov8-computer-vision-lab
 │
 ├── CV2_YOLO_TP.ipynb
-├── CV2_YOLO_TP_Part3_4.pdf
+├── CV2_YOLO_TP_Part3_4_5.ipynb
 ├── CV2_YOLO_TP_Report.pdf
 │
 ├── test_video.mp4
@@ -49,8 +49,8 @@ yolov8-computer-vision-lab
 
 Description of files:
 
-* **CV2_YOLO_TP.ipynb** – Main notebook containing the YOLOv8 experiments
-* **CV2_YOLO_TP_Part3_4.pdf** – Intermediate report documentation
+* **CV2_YOLO_TP.ipynb** – notebook for the first 2 parts containing the YOLOv8 experiments
+* **CV2_YOLO_TP_Part3_4.pdf** – Notebook for remaining parts
 * **CV2_YOLO_TP_Report.pdf** – Final report explaining the project and results
 * **test_video.mp4** – Original video used for testing
 * **test_video_detect.mp4** – Output video with object detection
